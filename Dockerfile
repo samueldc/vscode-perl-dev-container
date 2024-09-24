@@ -8,4 +8,4 @@ RUN apt-get update \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/* \
     && cpanm Perl::LanguageServer \
-    && cpanm Dancer2 \
+    && cpanm Dancer2
