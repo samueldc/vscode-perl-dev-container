@@ -40,3 +40,4 @@ git submodule update --remote .devcontainer
 
 - [VS Code Dev Containers documentation](https://code.visualstudio.com/docs/devcontainers/containers)
 - [Github official Dev Containers organization](https://github.com/devcontainers)
+- [JSON reference](https://containers.dev/implementors/json_reference/)
