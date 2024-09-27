@@ -24,7 +24,10 @@
 	// "customizations": {},
 	"customizations": {
 		"vscode": {
-			"extensions": ["richterger.perl"]
+			"extensions": [
+				"richterger.perl",
+				"samosad.tt"
+			]
 		}
 	},
 
